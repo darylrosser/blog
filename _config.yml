@@ -23,7 +23,7 @@ email: daryl@rosser.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   A small blog on business, marketing, and other curiosities.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://rosser.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rosser.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 collections:
   posts:
     output: true
